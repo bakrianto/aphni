@@ -62,10 +62,7 @@
       <p class="mb-4 pb-0">COVID-19 Pandemic and Mitigation Strategies: Implication for Health Vulnerable</p>
       <a href="https://www.youtube.com/watch?v=r7Gim8u0HGs" class="venobox play-btn mb-4" data-vbtype="video"
         data-autoplay="true"></a>
-      <div>
-      <a href="register.php" class="about-btn scrollto">REGISTER NOW</a>
-      <a href="login.php" class="about-btn scrollto">SIGN IN</a>
-      </div>
+      
       <!-- <a href="http://aphni.almaata.ac.id/img/POSTER%20APHNI.jpg" target="_blank" class="about-btn scrollto pull-right">DOWNLOAD BROCHURE</a> -->
     </div>
   </section>
@@ -92,7 +89,7 @@
           <div class="col-lg-3">
             <h3>When</h3>
             <p>Saturday<br>3 October 2020</p><hr>
-            <p>Tuesday - Wednesday<br>20 - 21 October 2020</p>
+            <p>Tuesday<br>20 October 2020</p>
           </div>
         </div>
       </div>
@@ -104,12 +101,23 @@
     <section id="speakers" class="wow fadeInUp">
       <div class="container">
         <div class="section-header">
-          <h2>Event Speakers</h2>
+          <h2>Conference</h2>
           <p>Here are some of our speakers</p>
         </div>
         <div class="row">
           <div class="col-md-12 text-center">
-            <img src="img/speaker.png" alt="Speaker APHNI" style="width: 80%;">
+            <img src="img/conference.png" alt="Speaker APHNI" style="width: 80%;">
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="section-header">
+          <h2>Symposium</h2>
+          <p>Here are some of our speakers</p>
+        </div>
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <img src="img/symposium.png" alt="Speaker APHNI" style="width: 80%;">
           </div>
         </div>
         <!-- <div class="row">
@@ -236,10 +244,10 @@
 
         <ul class="nav nav-tabs" role="tablist">
           <li class="nav-item">
-            <a class="nav-link active" href="#day-1" role="tab" data-toggle="tab">3 October 2020</a>
+            <a class="nav-link active" href="#day-1" role="tab" data-toggle="tab">Conference<br>3 October 2020</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#day-2" role="tab" data-toggle="tab">20 - 21 October 2020</a>
+            <a class="nav-link" href="#day-2" role="tab" data-toggle="tab">Symposium<br>20 - 21 October 2020</a>
           </li>
         
         </ul>
@@ -692,6 +700,10 @@
           <h2>Registration Fee</h2>
           <p></p>
         </div>
+        <div>
+      <a href="register.php" class="about-btn scrollto">REGISTER NOW</a>
+      <a href="login.php" class="about-btn scrollto">SIGN IN</a>
+      </div>
         <div class="row contact-info">
 
           <div class="col-md-12">
@@ -720,21 +732,22 @@
 
         <div class="row contact-info">
 
-          <div class="col-md-6">
+          <div class="col-md-12">
             <div class="contact-address">
               <i class="ion-ios-location-outline"></i>
               <h3>Contact Person Registration</h3>
               <address>Mrs. Nurmukhlishoh (+62 88225301522)</address>
+              <address>Mrs. Wiji Indah (+62 82293679312)</address>
             </div>
           </div>
 
-          <div class="col-md-6">
+          <!-- <div class="col-md-6">
             <div class="contact-phone">
               <i class="ion-ios-telephone-outline"></i>
               <h3>Contact Person Articles</h3>
               <address>Mrs. Siska (+62 87839936888)</address>
             </div>
-          </div> 
+          </div>  -->
         </div>
  
       </div>
