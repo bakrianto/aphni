@@ -45,6 +45,7 @@
 	  <li><a href="file/Template_Artikel_APHNI_2020.docx">Template</a></li>
 	  <!-- <li><a href="file/Presentationaphni2020.docx">Presentation</a></li> -->
 	  <li><a href="http://portal.almaata.ac.id/event/aphni/materi/">Speaker Topics</a></li>
+    <li><a href="http://aphni.almaata.ac.id/login.php">Login</a></li>
           <!-- <li><a href="http://aphni.almaata.ac.id/file/prosiding.pdf">Proceeding</a></li> -->
 
         </ul>
@@ -61,7 +62,10 @@
       <p class="mb-4 pb-0">COVID-19 Pandemic and Mitigation Strategies: Implication for Health Vulnerable</p>
       <a href="https://www.youtube.com/watch?v=r7Gim8u0HGs" class="venobox play-btn mb-4" data-vbtype="video"
         data-autoplay="true"></a>
+      <div>
       <a href="register.php" class="about-btn scrollto">REGISTER NOW</a>
+      <a href="login.php" class="about-btn scrollto">SIGN IN</a>
+      </div>
       <!-- <a href="http://aphni.almaata.ac.id/img/POSTER%20APHNI.jpg" target="_blank" class="about-btn scrollto pull-right">DOWNLOAD BROCHURE</a> -->
     </div>
   </section>
